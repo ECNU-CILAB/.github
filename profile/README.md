@@ -1,5 +1,7 @@
 ## ECNU Collaborative Intelligence Lab
 
+Welcome, this is the official repository of ECNU Colloborative Intelligence Lab (CI-Lab for short). We are a bunch of tehchnical enthusiastics who are keen to **PETs** (Privacy-Enhancing Technologies), **Fintech** (Financial Technology), and **NLP** (Natrual Language Processing).
+
 <!--
 
 **Here are some ideas to get you started:**
