@@ -1,4 +1,4 @@
-## ECNU CI lab
+## ECNU Collaborative Intelligence Lab
 
 <!--
 
