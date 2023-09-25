@@ -1,4 +1,4 @@
-## Collaborative Intelligence Lab at ECNU
+## Computational Intelligence Lab at ECNU
 
 Welcome, this is the official repository of ECNU's Computational Intelligence Lab (CI-Lab for short). We are a bunch of tehchnical enthusiastics who are keen to **PETs** (Privacy-Enhancing Technologies), **AIGC** (Diffusion and LLMs), and **Fintech** (Financial Technology).
 
